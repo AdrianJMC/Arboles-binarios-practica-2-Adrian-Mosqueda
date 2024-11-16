@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arboles binario Practica 2/1.0.0": {
+        "runtime": {
+          "Arboles binario Practica 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arboles binario Practica 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

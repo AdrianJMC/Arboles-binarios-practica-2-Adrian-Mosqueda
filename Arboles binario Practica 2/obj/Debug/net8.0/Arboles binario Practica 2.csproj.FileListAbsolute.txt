@@ -1,0 +1,14 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\bin\Debug\net8.0\Arboles binario Practica 2.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\bin\Debug\net8.0\Arboles binario Practica 2.deps.json
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\bin\Debug\net8.0\Arboles binario Practica 2.runtimeconfig.json
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\bin\Debug\net8.0\Arboles binario Practica 2.dll
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\bin\Debug\net8.0\Arboles binario Practica 2.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.AssemblyInfoInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.AssemblyInfo.cs
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.dll
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\refint\Arboles binario Practica 2.dll
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\Arboles binario Practica 2.genruntimeconfig.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Arboles binario Practica 2\obj\Debug\net8.0\ref\Arboles binario Practica 2.dll
